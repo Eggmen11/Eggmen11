@@ -10,9 +10,6 @@ Right now, I’m knee-deep in the wild world of AI agents 🤖. I’m building s
 
 I’m just getting started. More agents, more code, more goals—on and off the field. Stick around if you’re into the madness—I’ve got big plans and bigger lifts coming ⏳.
 
-## Hit Me Up 📩
-
-Got a wild idea or just wanna talk shop? Catch me in the GitHub streets or wherever the code flows.
 <!--
 **Eggmen11/Eggmen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

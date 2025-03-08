@@ -1,6 +1,6 @@
 # Yo, I’m Egi 💪
 
-What’s good? I’m the dude who’s always got a laptop 💻, a football ⚽, or a barbell 🏋️ in hand—sometimes all three if I’m feeling extra. I live for coding dope stuff, smashing it on the pitch, and lifting heavy things just to flex on gravity. Life’s a game, and I’m here to win it 🏆.
+What’s good? I’m the dude who’s always got a laptop 💻, a football ⚽, or a barbell 🏋️ in hand—sometimes all three if I’m feeling extra. I live for coding dope stuff, hitting top bins, and lifting heavy things just to flex on gravity. Life’s a game, and I’m here to win it 🏆.
 
 ## What I’m Up To 🔥
 
